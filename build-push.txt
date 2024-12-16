@@ -1,0 +1,15 @@
+
+
+
+
+
+
+docker build -t skounaidi/jsp_image:anisse .
+
+
+
+
+docker push skounaidi/jsp_image:anisse
+
+
+
